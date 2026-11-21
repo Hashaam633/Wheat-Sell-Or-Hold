@@ -1,0 +1,50 @@
+{
+ "repeats": {
+  "market_seasons_total": 60,
+  "market_seasons_with_repeat": 35,
+  "scored_rows_kept_share": 0.7294918436803192,
+  "spearman_rank_corr_qs": 0.9834782608695652
+ },
+ "inflation": {
+  "2016": {
+   "pi_expected": 0.031,
+   "pi_realised_may_jan_annualised": 0.0363
+  },
+  "2017": {
+   "pi_expected": 0.0478,
+   "pi_realised_may_jan_annualised": 0.0399
+  },
+  "2018": {
+   "pi_expected": 0.0368,
+   "pi_realised_may_jan_annualised": 0.0597
+  },
+  "2019": {
+   "pi_expected": 0.0828,
+   "pi_realised_may_jan_annualised": 0.1524
+  },
+  "2020": {
+   "pi_expected": 0.0856,
+   "pi_realised_may_jan_annualised": 0.1119
+  },
+  "2021": {
+   "pi_expected": 0.111,
+   "pi_realised_may_jan_annualised": 0.1437
+  },
+  "2022": {
+   "pi_expected": 0.1337,
+   "pi_realised_may_jan_annualised": 0.3571
+  },
+  "2023": {
+   "pi_expected": 0.3641,
+   "pi_realised_may_jan_annualised": 0.217
+  },
+  "2024": {
+   "pi_expected": 0.1734,
+   "pi_realised_may_jan_annualised": 0.0679
+  },
+  "2025": {
+   "pi_expected": 0.003,
+   "pi_realised_may_jan_annualised": 0.1042
+  }
+ }
+}

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# large row-level files rebuilt by run_all.sh
+results/scored_rows.csv.gz
+results/decision_quantiles.csv.gz
+results/colab_forecasts.csv.gz
+# source files whose redistribution terms are not confirmed (download them, see data/README.md)
+data/raw/*.pdf
+data/raw/Policy_Rate.csv
+data/raw/Exchange_Rates_-_PKR_US_.csv
+data/raw/fao_fpma_pakistan_wheat_flour_retail.xlsx

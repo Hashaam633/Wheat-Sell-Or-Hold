@@ -1,0 +1,51 @@
+{
+ "H1: ens+R prob - point": {
+  "observed_mean_pp": 0.09011466533846392,
+  "sd_pp": 4.081236615200319,
+  "mde80_signflip_pp": 2.7,
+  "mde80_normal_theory_pp": 3.0051610404933253,
+  "power_at_observed": 0.04871253280205223,
+  "size_at_zero": 0.01125,
+  "n_nonzero": 5,
+  "share_nonzero": 0.38461538461538464,
+  "hurdle_power_max": 0.605,
+  "hurdle_power_at_observed": 0.013851719980076959,
+  "hurdle_mde80_pp": null,
+  "hurdle_power_at_mde80": 0.605,
+  "power_cap": 0.6033622141622357
+ },
+ "H6: M5 - SARIMA (prob)": {
+  "observed_mean_pp": 5.746032244664718,
+  "sd_pp": 13.209694485532163,
+  "mde80_signflip_pp": 6.7,
+  "mde80_normal_theory_pp": 9.726772291734013,
+  "power_at_observed": 0.4714922529725928,
+  "size_at_zero": 0.02525,
+  "n_nonzero": 11,
+  "share_nonzero": 0.8461538461538461,
+  "hurdle_power_max": 1.0,
+  "hurdle_power_at_observed": 0.4701906407393569,
+  "hurdle_mde80_pp": 6.800000000000001,
+  "hurdle_power_at_mde80": 0.788,
+  "power_cap": 0.9999809508867437
+ },
+ "M5+R prob - M0+R prob": {
+  "observed_mean_pp": 4.835981032518637,
+  "sd_pp": 9.859503305859159,
+  "mde80_signflip_pp": 4.9,
+  "mde80_normal_theory_pp": 7.259906250725625,
+  "power_at_observed": 0.7883675166390485,
+  "size_at_zero": 0.00675,
+  "n_nonzero": 12,
+  "share_nonzero": 0.9230769230769231,
+  "hurdle_power_max": 1.0,
+  "hurdle_power_at_observed": 0.7758340252433704,
+  "hurdle_mde80_pp": 5.0,
+  "hurdle_power_at_mde80": 0.796,
+  "power_cap": 0.9999999493790125
+ },
+ "stake": {
+  "oracle_mean_gain_pp": 15.809326783333333,
+  "ens_R_prob_ce_pp": 2.2389318582334505
+ }
+}

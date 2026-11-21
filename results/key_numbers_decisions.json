@@ -1,0 +1,17 @@
+{
+ "primary_test": {
+  "test": "H1 primary: ens+R prob vs point, gamma 2, rule B",
+  "seasons": 13,
+  "mean_diff_pp": 0.09011464951898315,
+  "ci90_lo": -1.5631432525078481,
+  "ci90_hi": 1.9248951761094404,
+  "ci90_signflip_lo": -1.889336179194867,
+  "ci90_signflip_hi": 2.10443387188197,
+  "n_nonzero": 5,
+  "p_one_sided": 0.5,
+  "p_two_sided": 1.0,
+  "wins": 2,
+  "losses": 3,
+  "diff_without_2024_pp": -0.7792232429719225
+ }
+}

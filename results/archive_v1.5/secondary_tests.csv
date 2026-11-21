@@ -1,0 +1,10 @@
+hypothesis,estimate,boot_se,t,ci90_lo,ci90_hi,p_boot_raw,p_romano_wolf,reject_at_5pct,p_signflip_one_sided,wins,losses,without_2024
+"H2 (TOST upper): gap < +1 pp, gamma 0, rule A",-1.5015,3.7497,-0.4004,-8.8120,3.2642,0.7385,0.8843,False,,,,
+"H2 (TOST lower): gap > -1 pp, gamma 0, rule A",3.5015,3.7497,0.9338,-1.2642,10.8120,0.2206,0.5169,False,,,,
+"H3: gap rises with gamma (slope, pp per unit gamma), rule B",-0.4146,1.1185,-0.3707,-2.3865,1.2455,0.6567,0.8843,False,,,,
+"H4a: gap(ens+R) - gap(ens), gamma 2, rule B",0.9936,0.8494,1.1698,-0.1800,2.5763,0.1153,0.4774,False,,,,
+"H4b: -corr(|coverage - 0.80|, gap) across model x regime",-0.0866,0.0855,-1.0128,-0.1956,0.0548,0.9163,0.9163,False,,,,
+"H5: -slope of VCR on spread (per pp), ens+R prob",0.0129,0.0080,1.6137,0.0005,0.0251,0.0439,0.2463,False,,,,
+"H6: CE(M5) - CE(SARIMA), prob, gamma 2, rule B",5.8825,3.5181,1.6721,0.4852,11.8993,0.0562,0.2359,False,,,,
+H1 as run (CE over markets within season),0.0507,,,-1.6150,1.8936,,,,0.5000,2.0000,3.0000,-0.8219
+H1 literal (mean realised V over markets),-0.4337,,,-2.2405,1.4123,,,,0.6250,2.0000,3.0000,-1.2024

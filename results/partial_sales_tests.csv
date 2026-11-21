@@ -1,0 +1,169 @@
+tier,model,gamma,contrast,seasons,mean_diff_pp,p_one_sided,wins,losses,without_2024
+primary,ens+R,0,P prob - P point (= B point),13,2.454458607,0.5,1,5,3.473296359
+primary,ens+R,0,P prob - B prob,13,0,1,0,0,0
+primary,ens+R,1,P prob - P point (= B point),13,0.4032167053,0.4921875,2,6,0.5275820163
+primary,ens+R,1,P prob - B prob,13,0.898298799,0.0546875,5,3,0.6832687986
+primary,ens+R,2,P prob - P point (= B point),13,0.1817165454,0.40234375,4,5,-0.2739702949
+primary,ens+R,2,P prob - B prob,13,0.09160189588,0.46875,3,6,0.505252948
+primary,ens+R,4,P prob - P point (= B point),13,0.1983428515,0.439453125,5,5,-0.7098711863
+primary,ens+R,4,P prob - B prob,13,0.04326600901,0.4755859375,5,5,0.2667752453
+primary,ens,0,P prob - P point (= B point),13,-0.01571275865,0.53125,2,4,0.6085823366
+primary,ens,0,P prob - B prob,13,0,1,0,0,0
+primary,ens,1,P prob - P point (= B point),13,0.01390184306,0.5,1,4,0.1103890188
+primary,ens,1,P prob - B prob,13,0.1723449002,0.375,2,3,0.282035664
+primary,ens,2,P prob - P point (= B point),13,-0.4758521535,0.890625,1,6,-0.6638125461
+primary,ens,2,P prob - B prob,13,0.4670280678,0.1875,3,4,0.357641027
+primary,ens,4,P prob - P point (= B point),13,-0.1337651393,0.5712890625,4,7,-0.7742246258
+primary,ens,4,P prob - B prob,13,1.078128513,0.021484375,7,4,0.9410857058
+primary,m5+R,0,P prob - P point (= B point),13,-0.4534109815,0.796875,3,4,-0.06284927532
+primary,m5+R,0,P prob - B prob,13,0,1,0,0,0
+primary,m5+R,1,P prob - P point (= B point),13,-0.22605792,0.6225585938,7,4,-0.1339568188
+primary,m5+R,1,P prob - B prob,13,-0.3666988255,0.80078125,4,5,-0.2863177997
+primary,m5+R,2,P prob - P point (= B point),13,-1.547147015,0.5805664062,9,4,-2.029556234
+primary,m5+R,2,P prob - B prob,13,-0.2031618992,0.7172851562,3,8,-0.1103356457
+primary,m5+R,4,P prob - P point (= B point),13,-3.107528341,0.7542724609,9,4,-4.215727026
+primary,m5+R,4,P prob - B prob,13,2.142966045,0.07543945312,6,6,2.495386945
+primary,m5,0,P prob - P point (= B point),13,-0.2865408799,0.5625,3,2,0.1179266681
+primary,m5,0,P prob - B prob,13,0,1,0,0,0
+primary,m5,1,P prob - P point (= B point),13,0.004285902791,0.5,4,2,0.1638398085
+primary,m5,1,P prob - B prob,13,-0.1353937169,0.75,1,3,0.01252022045
+primary,m5,2,P prob - P point (= B point),13,0.2190389014,0.1689453125,9,2,0.1980194167
+primary,m5,2,P prob - B prob,13,0.2152275735,0.091796875,6,3,0.1938904782
+primary,m5,4,P prob - P point (= B point),13,-0.214342495,0.5892333984,9,4,-0.6680136646
+primary,m5,4,P prob - B prob,13,-1.110454963,0.9545898438,4,7,-1.152261038
+primary,sarima+R,0,P prob - P point (= B point),13,1.063308844,0.46875,2,4,1.580263869
+primary,sarima+R,0,P prob - B prob,13,0,1,0,0,0
+primary,sarima+R,1,P prob - P point (= B point),13,0.4347089996,0.140625,5,3,0.1991510203
+primary,sarima+R,1,P prob - B prob,13,0.4347089996,0.140625,5,3,0.1991510203
+primary,sarima+R,2,P prob - P point (= B point),13,0.3624893857,0.3408203125,4,6,-0.2382108776
+primary,sarima+R,2,P prob - B prob,13,0.4623626378,0.4931640625,3,7,0.7468325922
+primary,sarima+R,4,P prob - P point (= B point),13,0.139035366,0.4697265625,5,7,-0.8064331542
+primary,sarima+R,4,P prob - B prob,13,0.1877105195,0.3244628906,7,5,0.2693766495
+primary,sarima,0,P prob - P point (= B point),13,-0.361375427,0.796875,1,5,-0.3914900459
+primary,sarima,0,P prob - B prob,13,0,1,0,0,0
+primary,sarima,1,P prob - P point (= B point),13,0.07586502288,0.384765625,4,5,-0.1077387369
+primary,sarima,1,P prob - B prob,13,0.07586502288,0.384765625,4,5,-0.1077387369
+primary,sarima,2,P prob - P point (= B point),13,0.1774902374,0.3662109375,5,6,-0.1532105317
+primary,sarima,2,P prob - B prob,13,-0.1997680026,0.8159179688,3,8,-0.09867024537
+primary,sarima,4,P prob - P point (= B point),13,0.04924393838,0.4835205078,8,5,-0.6885966467
+primary,sarima,4,P prob - B prob,13,-0.1072826665,0.5570068359,8,5,-0.3716260015
+primary,m0+R,0,P prob - P point (= B point),13,3.695485267,0.2536621094,7,6,6.07225099
+primary,m0+R,0,P prob - B prob,13,0,1,0,0,0
+primary,m0+R,1,P prob - P point (= B point),13,3.509415295,0.2426757812,7,6,5.648488641
+primary,m0+R,1,P prob - B prob,13,-0.3496815827,0.75,4,7,-0.6023770415
+primary,m0+R,2,P prob - P point (= B point),13,1.461200872,0.3156738281,7,6,2.278331109
+primary,m0+R,2,P prob - B prob,13,1.026575431,0.21875,7,4,0.1252629533
+primary,m0+R,4,P prob - P point (= B point),13,0.2637625947,0.4396972656,6,7,0.5224655133
+primary,m0+R,4,P prob - B prob,13,0.6935598526,0.2758789062,6,7,1.109647166
+validation,ens+R,0,P prob - P point (= B point),12,-0.6076705414,0.716796875,2,7,-0.1718947846
+validation,ens+R,0,P prob - B prob,12,0,1,0,0,0
+validation,ens+R,1,P prob - P point (= B point),12,-0.04849781315,0.5493164062,4,7,-0.2024360663
+validation,ens+R,1,P prob - B prob,12,0.3645408582,0.19921875,5,6,0.08495485154
+validation,ens+R,2,P prob - P point (= B point),12,0.7736658554,0.2534179688,5,6,8.272090939e-06
+validation,ens+R,2,P prob - B prob,12,0.08130769687,0.4516601562,7,4,0.5118943907
+validation,ens+R,4,P prob - P point (= B point),12,0.1562453977,0.478515625,5,6,-1.191770697
+validation,ens+R,4,P prob - B prob,12,-0.9795721182,0.8911132812,6,5,-0.6715833357
+validation,ens,0,P prob - P point (= B point),12,-0.08748022903,0.546875,2,4,0.08860298557
+validation,ens,0,P prob - B prob,12,0,1,0,0,0
+validation,ens,1,P prob - P point (= B point),12,-0.1031308326,0.6640625,2,6,-0.07176676629
+validation,ens,1,P prob - B prob,12,0.2900699173,0.1484375,5,3,0.1939827826
+validation,ens,2,P prob - P point (= B point),12,-0.1212293133,0.65234375,3,6,-0.3551404294
+validation,ens,2,P prob - B prob,12,0.5774818926,0.03125,6,3,0.477884462
+validation,ens,4,P prob - P point (= B point),12,0.01208621931,0.4948730469,5,7,-0.8092749204
+validation,ens,4,P prob - B prob,12,0.005775955372,0.4938964844,6,6,-0.142508931
+validation,m5+R,0,P prob - P point (= B point),12,-1.297341291,0.904296875,3,6,-0.614097223
+validation,m5+R,0,P prob - B prob,12,0,1,0,0,0
+validation,m5+R,1,P prob - P point (= B point),12,-0.3813081075,0.943359375,2,7,-0.2015586247
+validation,m5+R,1,P prob - B prob,12,-0.369773249,0.96875,1,6,-0.1889751427
+validation,m5+R,2,P prob - P point (= B point),12,0.0697661994,0.4624023438,6,5,-0.2394362582
+validation,m5+R,2,P prob - B prob,12,0.4459760183,0.1572265625,7,4,0.6167475115
+validation,m5+R,4,P prob - P point (= B point),12,-0.2212424748,0.5593261719,7,5,-1.047728411
+validation,m5+R,4,P prob - B prob,12,-0.5224611504,0.7978515625,5,7,-0.2965086726
+validation,m5,0,P prob - P point (= B point),12,-0.9042070531,0.875,1,4,-0.271747448
+validation,m5,0,P prob - B prob,12,0,1,0,0,0
+validation,m5,1,P prob - P point (= B point),12,-0.2425043527,0.8828125,2,5,-0.08685271182
+validation,m5,1,P prob - B prob,12,-0.2213776816,0.8515625,3,4,-0.06380543429
+validation,m5,2,P prob - P point (= B point),12,-0.3035484097,0.75,3,4,-0.2701471967
+validation,m5,2,P prob - B prob,12,-0.2147354867,0.8046875,3,4,-0.1732603716
+validation,m5,4,P prob - P point (= B point),12,-0.404821619,0.625,6,4,-0.6962027131
+validation,m5,4,P prob - B prob,12,-0.1165077445,0.6455078125,6,4,-0.216963249
+validation,sarima+R,0,P prob - P point (= B point),12,-0.6195094745,0.625,3,2,0.3807112416
+validation,sarima+R,0,P prob - B prob,12,0,1,0,0,0
+validation,sarima+R,1,P prob - P point (= B point),12,-1.23933525,0.71484375,4,4,-1.14710455
+validation,sarima+R,1,P prob - B prob,12,1.233431326,0.21484375,5,3,1.550458987
+validation,sarima+R,2,P prob - P point (= B point),12,-2.086074495,0.6569824219,5,7,-2.493857556
+validation,sarima+R,2,P prob - B prob,12,-0.2843193394,0.7265625,7,5,0.02692354595
+validation,sarima+R,4,P prob - P point (= B point),12,-2.494582448,0.6892089844,6,6,-3.235089908
+validation,sarima+R,4,P prob - B prob,12,0.06334838584,0.4582519531,8,4,0.2130770545
+validation,sarima,0,P prob - P point (= B point),12,0.2089805752,0.3125,3,1,0.4496929952
+validation,sarima,0,P prob - B prob,12,0,1,0,0,0
+validation,sarima,1,P prob - P point (= B point),12,-1.013856544,0.68359375,3,5,-1.038335919
+validation,sarima,1,P prob - B prob,12,-1.013856544,0.68359375,3,5,-1.038335919
+validation,sarima,2,P prob - P point (= B point),12,-2.56330715,0.8774414062,4,7,-2.77502737
+validation,sarima,2,P prob - B prob,12,-0.2136870846,0.7763671875,6,5,-0.2118054802
+validation,sarima,4,P prob - P point (= B point),12,-3.315212225,0.8195800781,5,7,-3.950541541
+validation,sarima,4,P prob - B prob,12,-0.1937488953,0.6398925781,5,7,0.09961884174
+validation,m0+R,0,P prob - P point (= B point),12,-5.4141861,0.955078125,2,10,-4.942756407
+validation,m0+R,0,P prob - B prob,12,0,1,0,0,0
+validation,m0+R,1,P prob - P point (= B point),12,-4.778254931,0.9541015625,2,10,-4.649023863
+validation,m0+R,1,P prob - B prob,12,0.03679000826,0.4375,3,3,0.1369213329
+validation,m0+R,2,P prob - P point (= B point),12,-4.2530427,0.9262695312,3,9,-4.629419321
+validation,m0+R,2,P prob - B prob,12,-0.05313036265,0.57421875,3,5,-0.2878779113
+validation,m0+R,4,P prob - P point (= B point),12,-4.418717972,0.7963867188,7,5,-5.474697955
+validation,m0+R,4,P prob - B prob,12,-0.3789659463,0.6520996094,8,4,-0.4570379736
+robustness,ens+R,0,P prob - P point (= B point),13,1.024261713,0.3984375,4,3,2.120930084
+robustness,ens+R,0,P prob - B prob,13,0,1,0,0,0
+robustness,ens+R,1,P prob - P point (= B point),13,0.1337328172,0.3046875,4,3,0.3311685021
+robustness,ens+R,1,P prob - B prob,13,0.5451431589,0.21875,3,4,0.3112777972
+robustness,ens+R,2,P prob - P point (= B point),13,-0.001462911829,0.50390625,4,4,-0.1313930716
+robustness,ens+R,2,P prob - B prob,13,0.2153352794,0.34375,6,2,0.5312754964
+robustness,ens+R,4,P prob - P point (= B point),13,-0.1056444549,0.5859375,5,4,-0.4568240503
+robustness,ens+R,4,P prob - B prob,13,0.2137144537,0.234375,6,3,0.3656621449
+robustness,ens,0,P prob - P point (= B point),13,-0.3521018831,0.720703125,5,4,0.03961544943
+robustness,ens,0,P prob - B prob,13,0,1,0,0,0
+robustness,ens,1,P prob - P point (= B point),13,-0.1538916955,0.712890625,4,6,0.03184097007
+robustness,ens,1,P prob - B prob,13,-0.007304567032,0.5205078125,4,6,-0.0227372628
+robustness,ens,2,P prob - P point (= B point),13,-0.1028081302,0.5986328125,5,5,-0.2533673424
+robustness,ens,2,P prob - B prob,13,-0.06215362467,0.5498046875,7,3,0.2269770237
+robustness,ens,4,P prob - P point (= B point),13,0.01147424706,0.48828125,5,5,-0.3249303934
+robustness,ens,4,P prob - B prob,13,-0.08521824549,0.6123046875,6,4,0.09259876041
+robustness,m5+R,0,P prob - P point (= B point),13,-0.4359663374,0.734375,2,5,0.04503117692
+robustness,m5+R,0,P prob - B prob,13,0,1,0,0,0
+robustness,m5+R,1,P prob - P point (= B point),13,-0.01069715626,0.5234375,2,5,0.02212465881
+robustness,m5+R,1,P prob - B prob,13,-0.01069715626,0.5234375,2,5,0.02212465881
+robustness,m5+R,2,P prob - P point (= B point),13,-0.6168325204,0.6533203125,5,5,-0.7505042279
+robustness,m5+R,2,P prob - B prob,13,-0.06321500936,0.619140625,5,5,0.08167584293
+robustness,m5+R,4,P prob - P point (= B point),13,-1.01047785,0.673828125,6,4,-1.241230859
+robustness,m5+R,4,P prob - B prob,13,0.2703346338,0.4560546875,3,7,0.3536446453
+robustness,m5,0,P prob - P point (= B point),13,-0.325138509,0.6796875,3,4,-0.3564350399
+robustness,m5,0,P prob - B prob,13,0,1,0,0,0
+robustness,m5,1,P prob - P point (= B point),13,0.008684298176,0.46484375,4,4,-0.06062464181
+robustness,m5,1,P prob - B prob,13,0.008684298176,0.46484375,4,4,-0.06062464181
+robustness,m5,2,P prob - P point (= B point),13,0.1213330441,0.375,7,3,-0.03640341475
+robustness,m5,2,P prob - B prob,13,0.06732346641,0.4150390625,6,4,0.1375139766
+robustness,m5,4,P prob - P point (= B point),13,-0.6727117899,0.7080078125,5,5,-0.9227381609
+robustness,m5,4,P prob - B prob,13,-0.7015714223,0.9990234375,1,9,-0.7051776073
+robustness,sarima+R,0,P prob - P point (= B point),13,1.580418683,0.34375,3,3,2.371650219
+robustness,sarima+R,0,P prob - B prob,13,0,1,0,0,0
+robustness,sarima+R,1,P prob - P point (= B point),13,0.2655944159,0.265625,4,3,0.4378211764
+robustness,sarima+R,1,P prob - B prob,13,0.1780439428,0.328125,4,3,0.3429748305
+robustness,sarima+R,2,P prob - P point (= B point),13,0.2637333037,0.4331054688,6,5,0.3945991604
+robustness,sarima+R,2,P prob - B prob,13,0.2139995529,0.345703125,6,5,0.2983634249
+robustness,sarima+R,4,P prob - P point (= B point),13,0.5964687608,0.2602539062,8,4,0.7086251532
+robustness,sarima+R,4,P prob - B prob,13,0.2108142578,0.2424316406,6,6,0.2493362663
+robustness,sarima,0,P prob - P point (= B point),13,-0.5061884173,0.7578125,3,5,-0.3309549704
+robustness,sarima,0,P prob - B prob,13,0,1,0,0,0
+robustness,sarima,1,P prob - P point (= B point),13,-0.0216427961,0.5424804688,6,5,0.05462969835
+robustness,sarima,1,P prob - B prob,13,-0.1091932692,0.6899414062,5,6,-0.04021664746
+robustness,sarima,2,P prob - P point (= B point),13,0.1554442477,0.3801269531,8,5,0.2283954486
+robustness,sarima,2,P prob - B prob,13,0.4022719572,0.1907958984,7,6,0.4957921339
+robustness,sarima,4,P prob - P point (= B point),13,0.6950918548,0.1885986328,7,6,0.8033325318
+robustness,sarima,4,P prob - B prob,13,0.3319784696,0.1762695312,8,5,0.368463189
+robustness,m0+R,0,P prob - P point (= B point),13,-0.07600644311,0.5096435547,4,9,1.629726378
+robustness,m0+R,0,P prob - B prob,13,0,1,0,0,0
+robustness,m0+R,1,P prob - P point (= B point),13,0.2654281129,0.4760742188,3,10,1.29157722
+robustness,m0+R,1,P prob - B prob,13,-0.4913693751,0.7312011719,4,8,-0.6394737508
+robustness,m0+R,2,P prob - P point (= B point),13,-0.1093189445,0.5268554688,3,10,0.392926683
+robustness,m0+R,2,P prob - B prob,13,-0.213361514,0.6976318359,5,8,-0.2873029606
+robustness,m0+R,4,P prob - P point (= B point),13,-0.2824516308,0.6315917969,3,10,-0.07444761945
+robustness,m0+R,4,P prob - B prob,13,0.316420071,0.3536376953,5,8,0.5743300575
