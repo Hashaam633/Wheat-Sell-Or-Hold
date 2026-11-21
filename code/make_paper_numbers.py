@@ -375,6 +375,8 @@ N['official_unit_check'] = unit
 # ---------------------------------------------------------------- v1.9: checks added after the second outside review
 N['risk'] = recs(pd.read_csv(B + 'risk_sensitivity.csv'))
 N['risk_same_month'] = recs(pd.read_csv(B + 'risk_sensitivity_same_month.csv'))
+N['risk_by_season'] = recs(pd.read_csv(B + 'risk_sensitivity_by_season.csv'))          # v1.9.1
+N['risk_checks'] = json.load(open(B + 'risk_sensitivity_checks.json'))                 # v1.9.1
 N['diagnostics'] = json.load(open(B + 'diagnostics.json'))
 _sec = pd.read_csv(B + 'secondary_tests.csv')
 N['secondary_basic_ci'] = {row.hypothesis: dict(lo=r(2 * row.estimate - row.ci90_hi), hi=r(2 * row.estimate - row.ci90_lo))

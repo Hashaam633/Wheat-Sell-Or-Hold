@@ -12,9 +12,12 @@ Near V = 1 the relative risk aversion with respect to V is gamma / (1 - c), so 4
 c = 0.75 is not used: realised V falls below 0.75 in a few market-seasons, where CRRA over net value is undefined.
 Certainty equivalents are in the units of V: CE = c + u^-1(mean u(V - c)), and gains are CE - 1 as in the main analysis.
 
-Outputs: results/risk_sensitivity.csv (season-level tests and pooled CE gains for each variant) and
+Outputs: results/risk_sensitivity.csv (season-level tests and pooled CE gains for each variant),
          results/risk_sensitivity_same_month.csv (share of market-seasons in which the probabilistic and the point version
-         of each of the 24 forecasters choose the same month, by period).
+         of each of the 24 forecasters choose the same month, by period),
+         results/risk_sensitivity_by_season.csv (v1.9.1: season-level H1 and H6 differences and the mean sale months of M5 and
+         SARIMA for each variant) and results/risk_sensitivity_checks.json (v1.9.1: smallest realised net value; whether the
+         recalibrated ensemble made the same decisions in the gamma 8 and the net-value gamma 4 variants).
 """
 import numpy as np
 import pandas as pd
@@ -100,5 +103,24 @@ if __name__ == '__main__':
                                                                                           'prob_earlier_share': (q.prob < q.point).mean(), 'n': len(q)})).reset_index()
     S['forecasters'] = 'all 24'; E['forecasters'] = 'ens+R'
     pd.concat([S, E]).to_csv(B + 'risk_sensitivity_same_month.csv', index=False, float_format='%.10g')
+
+    # v1.9.1: season-level detail behind Table 13 and two checks of the net-value variants
+    by = []
+    for vname, (g, c) in VARIANTS.items():
+        d = X[X.variant == vname]
+        sce = lambda model, form: d[(d.model == model) & (d.form == form)].groupby('season').V.apply(lambda v: 100 * (ce(v.to_numpy(), g, c) - 1))
+        k = lambda model: d[(d.model == model) & (d.form == 'prob')].groupby('season').k.mean()
+        t = pd.DataFrame({'h6_diff_pp': sce('m5', 'prob') - sce('sarima', 'prob'), 'h1_diff_pp': sce('ens+R', 'prob') - sce('ens+R', 'point'),
+                          'k_m5': k('m5'), 'k_sarima': k('sarima')})
+        t['variant'] = vname
+        by.append(t.reset_index())
+    pd.concat(by)[['variant', 'season', 'h6_diff_pp', 'h1_diff_pp', 'k_m5', 'k_sarima']].to_csv(B + 'risk_sensitivity_by_season.csv', index=False, float_format='%.10g')
+    netv = X[X.variant.str.startswith('net')]
+    ek = X[(X.model == 'ens+R') & X.variant.isin(['gross_g8', 'net_c50_g4'])].pivot_table(index=['form', 'unique_id', 'season'], columns='variant', values='k')
+    chk = {'min_net_value': float((netv.V - netv.variant.map({v: VARIANTS[v][1] for v in VARIANTS})).min()),
+           'ensR_same_decisions_g8_vs_net_g4': float((ek['gross_g8'] == ek['net_c50_g4']).mean())}
+    import json
+    open(B + 'risk_sensitivity_checks.json', 'w').write(json.dumps(chk, indent=1))
+    print(json.dumps(chk))
     print(T.round(3).to_string(index=False))
     print(pd.concat([S, E]).round(3).to_string(index=False))

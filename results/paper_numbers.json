@@ -24742,6 +24742,428 @@
    "forecasters": "ens+R"
   }
  ],
+ "risk_by_season": [
+  {
+   "variant": "base_g2",
+   "season": 2013,
+   "h6_diff_pp": 0.564092,
+   "h1_diff_pp": 0.0,
+   "k_m5": 5.75,
+   "k_sarima": 7.0
+  },
+  {
+   "variant": "base_g2",
+   "season": 2014,
+   "h6_diff_pp": 1.412864,
+   "h1_diff_pp": 0.0,
+   "k_m5": 5.25,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "base_g2",
+   "season": 2015,
+   "h6_diff_pp": 0.844564,
+   "h1_diff_pp": 0.0,
+   "k_m5": 3.25,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "base_g2",
+   "season": 2016,
+   "h6_diff_pp": 2.402787,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.25,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "base_g2",
+   "season": 2017,
+   "h6_diff_pp": 2.285096,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.5,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "base_g2",
+   "season": 2018,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 0.0,
+   "k_m5": 4.4,
+   "k_sarima": 4.4
+  },
+  {
+   "variant": "base_g2",
+   "season": 2019,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.2,
+   "k_sarima": 1.2
+  },
+  {
+   "variant": "base_g2",
+   "season": 2020,
+   "h6_diff_pp": 3.085046,
+   "h1_diff_pp": -2.400181,
+   "k_m5": 5.0,
+   "k_sarima": 6.0
+  },
+  {
+   "variant": "base_g2",
+   "season": 2021,
+   "h6_diff_pp": 1.588508,
+   "h1_diff_pp": 0.0,
+   "k_m5": 8.0,
+   "k_sarima": 4.0
+  },
+  {
+   "variant": "base_g2",
+   "season": 2022,
+   "h6_diff_pp": 33.683473,
+   "h1_diff_pp": -5.5652,
+   "k_m5": 8.0,
+   "k_sarima": 4.8
+  },
+  {
+   "variant": "base_g2",
+   "season": 2023,
+   "h6_diff_pp": -2.043435,
+   "h1_diff_pp": 4.385519,
+   "k_m5": 5.8,
+   "k_sarima": 5.0
+  },
+  {
+   "variant": "base_g2",
+   "season": 2024,
+   "h6_diff_pp": -5.558841,
+   "h1_diff_pp": 10.522169,
+   "k_m5": 3.2,
+   "k_sarima": 1.6
+  },
+  {
+   "variant": "base_g2",
+   "season": 2025,
+   "h6_diff_pp": 36.434263,
+   "h1_diff_pp": -5.770817,
+   "k_m5": 6.8,
+   "k_sarima": 3.2
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2013,
+   "h6_diff_pp": 3.374682,
+   "h1_diff_pp": 0.0,
+   "k_m5": 5.75,
+   "k_sarima": 3.75
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2014,
+   "h6_diff_pp": 4.704569,
+   "h1_diff_pp": 6.32813,
+   "k_m5": 1.75,
+   "k_sarima": 3.75
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2015,
+   "h6_diff_pp": -1.829267,
+   "h1_diff_pp": 1.561689,
+   "k_m5": 3.25,
+   "k_sarima": 2.5
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2016,
+   "h6_diff_pp": 2.318461,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.25,
+   "k_sarima": 3.25
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2017,
+   "h6_diff_pp": 1.331298,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.5,
+   "k_sarima": 3.25
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2018,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": -0.407526,
+   "k_m5": 1.2,
+   "k_sarima": 1.2
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2019,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 0.0,
+   "k_m5": 0.0,
+   "k_sarima": 0.0
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2020,
+   "h6_diff_pp": 2.914739,
+   "h1_diff_pp": -2.553029,
+   "k_m5": 3.4,
+   "k_sarima": 3.2
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2021,
+   "h6_diff_pp": 0.509906,
+   "h1_diff_pp": -5.00631,
+   "k_m5": 3.6,
+   "k_sarima": 3.0
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2022,
+   "h6_diff_pp": 22.2868,
+   "h1_diff_pp": -15.458313,
+   "k_m5": 6.6,
+   "k_sarima": 0.8
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2023,
+   "h6_diff_pp": -4.191633,
+   "h1_diff_pp": 9.579909,
+   "k_m5": 5.0,
+   "k_sarima": 3.6
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2024,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 16.945329,
+   "k_m5": 0.4,
+   "k_sarima": 0.4
+  },
+  {
+   "variant": "gross_g8",
+   "season": 2025,
+   "h6_diff_pp": 12.132991,
+   "h1_diff_pp": -2.84857,
+   "k_m5": 2.8,
+   "k_sarima": 0.4
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2013,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 0.0,
+   "k_m5": 5.75,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2014,
+   "h6_diff_pp": 3.340168,
+   "h1_diff_pp": 0.0,
+   "k_m5": 4.0,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2015,
+   "h6_diff_pp": 0.810773,
+   "h1_diff_pp": 1.444583,
+   "k_m5": 3.25,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2016,
+   "h6_diff_pp": 2.43648,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.25,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2017,
+   "h6_diff_pp": 2.314951,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.5,
+   "k_sarima": 5.75
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2018,
+   "h6_diff_pp": 0.656265,
+   "h1_diff_pp": 0.0,
+   "k_m5": 4.0,
+   "k_sarima": 3.0
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2019,
+   "h6_diff_pp": 0.714389,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.2,
+   "k_sarima": 0.4
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2020,
+   "h6_diff_pp": 3.885178,
+   "h1_diff_pp": -2.771438,
+   "k_m5": 3.8,
+   "k_sarima": 4.6
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2021,
+   "h6_diff_pp": 2.587573,
+   "h1_diff_pp": -4.263627,
+   "k_m5": 4.8,
+   "k_sarima": 3.8
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2022,
+   "h6_diff_pp": 36.789908,
+   "h1_diff_pp": -12.690361,
+   "k_m5": 8.0,
+   "k_sarima": 4.2
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2023,
+   "h6_diff_pp": 0.278946,
+   "h1_diff_pp": 10.516506,
+   "k_m5": 5.2,
+   "k_sarima": 5.0
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2024,
+   "h6_diff_pp": 1.41208,
+   "h1_diff_pp": 14.492675,
+   "k_m5": 1.6,
+   "k_sarima": 1.0
+  },
+  {
+   "variant": "net_c50_g2",
+   "season": 2025,
+   "h6_diff_pp": 39.614613,
+   "h1_diff_pp": -4.688547,
+   "k_m5": 6.8,
+   "k_sarima": 3.2
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2013,
+   "h6_diff_pp": 3.390224,
+   "h1_diff_pp": 0.0,
+   "k_m5": 5.75,
+   "k_sarima": 3.75
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2014,
+   "h6_diff_pp": 4.728844,
+   "h1_diff_pp": 6.373151,
+   "k_m5": 1.75,
+   "k_sarima": 3.75
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2015,
+   "h6_diff_pp": -1.865233,
+   "h1_diff_pp": 1.567888,
+   "k_m5": 3.25,
+   "k_sarima": 2.5
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2016,
+   "h6_diff_pp": 2.326823,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.25,
+   "k_sarima": 3.25
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2017,
+   "h6_diff_pp": 2.860662,
+   "h1_diff_pp": 0.0,
+   "k_m5": 1.5,
+   "k_sarima": 2.5
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2018,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": -0.407761,
+   "k_m5": 1.2,
+   "k_sarima": 1.2
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2019,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 0.0,
+   "k_m5": 0.0,
+   "k_sarima": 0.0
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2020,
+   "h6_diff_pp": 2.879669,
+   "h1_diff_pp": -2.72165,
+   "k_m5": 3.4,
+   "k_sarima": 3.2
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2021,
+   "h6_diff_pp": 0.526828,
+   "h1_diff_pp": -5.046246,
+   "k_m5": 3.6,
+   "k_sarima": 3.0
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2022,
+   "h6_diff_pp": 38.308076,
+   "h1_diff_pp": -16.557435,
+   "k_m5": 6.8,
+   "k_sarima": 0.8
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2023,
+   "h6_diff_pp": -4.654066,
+   "h1_diff_pp": 10.128642,
+   "k_m5": 5.0,
+   "k_sarima": 3.6
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2024,
+   "h6_diff_pp": 0.0,
+   "h1_diff_pp": 18.232231,
+   "k_m5": 0.4,
+   "k_sarima": 0.4
+  },
+  {
+   "variant": "net_c50_g4",
+   "season": 2025,
+   "h6_diff_pp": 4.42862,
+   "h1_diff_pp": -3.048877,
+   "k_m5": 3.2,
+   "k_sarima": 0.4
+  }
+ ],
+ "risk_checks": {
+  "min_net_value": 0.1868382919062116,
+  "ensR_same_decisions_g8_vs_net_g4": 1.0
+ },
  "diagnostics": {
   "m5_beta": {
    "n_refits_scored": 204,
