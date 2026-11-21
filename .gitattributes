@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Keep the raw data files byte-for-byte as downloaded (no line-ending conversion)
+data/raw/** -text

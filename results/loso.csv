@@ -1,0 +1,155 @@
+quantity,left_out,value,p_one_sided
+"H1 gap (ens+R prob - point), pp",none,0.09011466534,0.5
+"H1 gap (ens+R prob - point), pp",2013,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2014,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2015,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2016,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2017,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2018,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2019,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2020,0.2976392708,0.5
+"H1 gap (ens+R prob - point), pp",2021,0.09762422078,0.5
+"H1 gap (ens+R prob - point), pp",2022,0.5613909169,0.375
+"H1 gap (ens+R prob - point), pp",2023,-0.2678356809,0.625
+"H1 gap (ens+R prob - point), pp",2024,-0.7792232437,0.875
+"H1 gap (ens+R prob - point), pp",2025,0.5785256201,0.375
+"H1 literal gap, pp",none,-0.3629750308,0.625
+"H1 literal gap, pp",2013,-0.39322295,0.625
+"H1 literal gap, pp",2014,-0.39322295,0.625
+"H1 literal gap, pp",2015,-0.39322295,0.625
+"H1 literal gap, pp",2016,-0.39322295,0.625
+"H1 literal gap, pp",2017,-0.39322295,0.625
+"H1 literal gap, pp",2018,-0.39322295,0.625
+"H1 literal gap, pp",2019,-0.39322295,0.625
+"H1 literal gap, pp",2020,-0.2154643167,0.5625
+"H1 literal gap, pp",2021,-0.39322295,0.625
+"H1 literal gap, pp",2022,0.2488439167,0.4375
+"H1 literal gap, pp",2023,-0.7124759667,0.75
+"H1 literal gap, pp",2024,-1.125795867,0.875
+"H1 literal gap, pp",2025,0.2320004333,0.4375
+"H4a recalibration effect on gap, pp",none,1.032994892,0.15625
+"H4a recalibration effect on gap, pp",2013,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2014,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2015,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2016,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2017,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2018,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2019,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2020,1.099139686,0.1875
+"H4a recalibration effect on gap, pp",2021,1.119077799,0.15625
+"H4a recalibration effect on gap, pp",2022,1.278677182,0.0625
+"H4a recalibration effect on gap, pp",2023,0.7536178975,0.3125
+"H4a recalibration effect on gap, pp",2024,0.2422303347,0.3125
+"H4a recalibration effect on gap, pp",2025,1.102646096,0.1875
+"H6 M5 - SARIMA (prob), pp",none,5.746032245,0.07568359375
+"H6 M5 - SARIMA (prob), pp",2013,6.177860598,0.0810546875
+"H6 M5 - SARIMA (prob), pp",2014,6.107129588,0.08984375
+"H6 M5 - SARIMA (prob), pp",2015,6.154487877,0.0849609375
+"H6 M5 - SARIMA (prob), pp",2016,6.024635998,0.1015625
+"H6 M5 - SARIMA (prob), pp",2017,6.034443591,0.1005859375
+"H6 M5 - SARIMA (prob), pp",2018,6.224868265,0.07568359375
+"H6 M5 - SARIMA (prob), pp",2019,6.224868265,0.07568359375
+"H6 M5 - SARIMA (prob), pp",2020,5.967781096,0.109375
+"H6 M5 - SARIMA (prob), pp",2021,6.092492607,0.0927734375
+"H6 M5 - SARIMA (prob), pp",2022,3.417912141,0.1513671875
+"H6 M5 - SARIMA (prob), pp",2023,6.395154532,0.056640625
+"H6 M5 - SARIMA (prob), pp",2024,6.688104978,0.0078125
+"H6 M5 - SARIMA (prob), pp",2025,3.188679644,0.1513671875
+"M5+R - SARIMA+R (prob), pp",none,4.875367276,0.07666015625
+"M5+R - SARIMA+R (prob), pp",2013,5.234640216,0.0830078125
+"M5+R - SARIMA+R (prob), pp",2014,5.163909206,0.08984375
+"M5+R - SARIMA+R (prob), pp",2015,5.211267494,0.0849609375
+"M5+R - SARIMA+R (prob), pp",2016,5.080361146,0.099609375
+"M5+R - SARIMA+R (prob), pp",2017,5.091223209,0.0986328125
+"M5+R - SARIMA+R (prob), pp",2018,5.281647883,0.07666015625
+"M5+R - SARIMA+R (prob), pp",2019,5.281647883,0.07666015625
+"M5+R - SARIMA+R (prob), pp",2020,5.024560714,0.1064453125
+"M5+R - SARIMA+R (prob), pp",2021,4.967553679,0.11328125
+"M5+R - SARIMA+R (prob), pp",2022,2.474691759,0.1533203125
+"M5+R - SARIMA+R (prob), pp",2023,5.662103166,0.03125
+"M5+R - SARIMA+R (prob), pp",2024,5.695258634,0.0283203125
+"M5+R - SARIMA+R (prob), pp",2025,3.210909604,0.1533203125
+"CE gain ens+R prob, pp",none,2.238931858,
+"CE gain ens+R prob, pp",2013,1.75323542,
+"CE gain ens+R prob, pp",2014,2.860168387,
+"CE gain ens+R prob, pp",2015,2.507970288,
+"CE gain ens+R prob, pp",2016,2.402698046,
+"CE gain ens+R prob, pp",2017,2.402698046,
+"CE gain ens+R prob, pp",2018,2.406688207,
+"CE gain ens+R prob, pp",2019,2.359920613,
+"CE gain ens+R prob, pp",2020,1.860079118,
+"CE gain ens+R prob, pp",2021,1.899348942,
+"CE gain ens+R prob, pp",2022,0.9357883194,
+"CE gain ens+R prob, pp",2023,2.706279786,
+"CE gain ens+R prob, pp",2024,2.581385477,
+"CE gain ens+R prob, pp",2025,2.447452645,
+"CE gain ens+R point, pp",none,1.745707689,
+"CE gain ens+R point, pp",2013,1.229957446,
+"CE gain ens+R point, pp",2014,2.325473333,
+"CE gain ens+R point, pp",2015,1.976921156,
+"CE gain ens+R point, pp",2016,1.872736274,
+"CE gain ens+R point, pp",2017,1.872736274,
+"CE gain ens+R point, pp",2018,1.867099598,
+"CE gain ens+R point, pp",2019,1.820823438,
+"CE gain ens+R point, pp",2020,1.133785867,
+"CE gain ens+R point, pp",2021,1.365079561,
+"CE gain ens+R point, pp",2022,0.06951068984,
+"CE gain ens+R point, pp",2023,2.625264026,
+"CE gain ens+R point, pp",2024,3.199412317,
+"CE gain ens+R point, pp",2025,1.394927271,
+"CE gain m5+R prob, pp",none,5.79005427,
+"CE gain m5+R prob, pp",2013,5.5306492,
+"CE gain m5+R prob, pp",2014,6.594491879,
+"CE gain m5+R prob, pp",2015,6.506611481,
+"CE gain m5+R prob, pp",2016,6.16818157,
+"CE gain m5+R prob, pp",2017,6.235395724,
+"CE gain m5+R prob, pp",2018,6.415317374,
+"CE gain m5+R prob, pp",2019,5.858606303,
+"CE gain m5+R prob, pp",2020,4.77895907,
+"CE gain m5+R prob, pp",2021,5.738661385,
+"CE gain m5+R prob, pp",2022,2.674803351,
+"CE gain m5+R prob, pp",2023,7.51058503,
+"CE gain m5+R prob, pp",2024,7.051134484,
+"CE gain m5+R prob, pp",2025,4.354565711,
+"CE gain m5 prob, pp",none,6.077378061,
+"CE gain m5 prob, pp",2013,5.837045496,
+"CE gain m5 prob, pp",2014,6.907105956,
+"CE gain m5 prob, pp",2015,6.818709555,
+"CE gain m5 prob, pp",2016,6.479305847,
+"CE gain m5 prob, pp",2017,6.545904008,
+"CE gain m5 prob, pp",2018,6.732561514,
+"CE gain m5 prob, pp",2019,6.505421951,
+"CE gain m5 prob, pp",2020,5.086507539,
+"CE gain m5 prob, pp",2021,6.253482362,
+"CE gain m5 prob, pp",2022,2.970106156,
+"CE gain m5 prob, pp",2023,7.834403112,
+"CE gain m5 prob, pp",2024,8.083008398,
+"CE gain m5 prob, pp",2025,3.184423098,
+"CE gain sarima prob, pp",none,2.631357322,
+"CE gain sarima prob, pp",2013,2.205045144,
+"CE gain sarima prob, pp",2014,3.285876766,
+"CE gain sarima prob, pp",2015,3.153560707,
+"CE gain sarima prob, pp",2016,2.951459778,
+"CE gain sarima prob, pp",2017,3.007442857,
+"CE gain sarima prob, pp",2018,2.938719073,
+"CE gain sarima prob, pp",2019,2.727424037,
+"CE gain sarima prob, pp",2020,1.618611253,
+"CE gain sarima prob, pp",2021,2.635158721,
+"CE gain sarima prob, pp",2022,0.9824814329,
+"CE gain sarima prob, pp",2023,3.721192052,
+"CE gain sarima prob, pp",2024,3.533554293,
+"CE gain sarima prob, pp",2025,1.501860244,
+"CE gain m0+R prob, pp",none,1.304645812,
+"CE gain m0+R prob, pp",2013,0.796572603,
+"CE gain m0+R prob, pp",2014,1.882245321,
+"CE gain m0+R prob, pp",2015,1.798265952,
+"CE gain m0+R prob, pp",2016,1.6346164,
+"CE gain m0+R prob, pp",2017,1.576922826,
+"CE gain m0+R prob, pp",2018,1.480847178,
+"CE gain m0+R prob, pp",2019,1.129009335,
+"CE gain m0+R prob, pp",2020,0.2192500486,
+"CE gain m0+R prob, pp",2021,1.093770231,
+"CE gain m0+R prob, pp",2022,-0.3883796983,
+"CE gain m0+R prob, pp",2023,2.480130243,
+"CE gain m0+R prob, pp",2024,4.063690188,
+"CE gain m0+R prob, pp",2025,-0.6508176575,

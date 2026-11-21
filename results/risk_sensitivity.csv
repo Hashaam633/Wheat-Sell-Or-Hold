@@ -1,0 +1,33 @@
+variant,variant_label,gamma,cost_share,contrast,seasons,mean_diff_pp,p_one_sided,ci90_signflip_lo,ci90_signflip_hi,wins,losses,n_nonzero
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,H1: ens+R prob - point (CE),13,0.09011464952,0.5,-1.889336179,2.104433872,2,3,5
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,H1 literal: ens+R prob - point (mean realised V),13,-0.3629750425,0.625,-2.47722666,1.758174966,2,3,5
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,"H6: M5 - SARIMA (prob, CE)",13,5.746032149,0.07568359375,-0.2255921413,12.36011986,9,2,11
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,pooled CE gain ens+R prob,13,2.238931856,,,,,,
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,pooled CE gain ens+R point,13,1.745707706,,,,,,
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,pooled CE gain m5 prob,13,6.077378061,,,,,,
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,pooled CE gain sarima prob,13,2.63135741,,,,,,
+base_g2,"CRRA on gross value, gamma 2 (main analysis)",2,0,mean sale month ens+R prob - point,13,-0.5666666667,,,,,,
+gross_g8,"CRRA on gross value, gamma 8",8,0,H1: ens+R prob - point (CE),13,0.6262544217,0.38671875,-3.165575888,4.353156186,4,5,9
+gross_g8,"CRRA on gross value, gamma 8",8,0,H1 literal: ens+R prob - point (mean realised V),13,-1.592155439,0.693359375,-6.11116641,2.463451496,4,5,9
+gross_g8,"CRRA on gross value, gamma 8",8,0,"H6: M5 - SARIMA (prob, CE)",13,3.350195805,0.0361328125,0.1699686543,6.748194852,8,2,10
+gross_g8,"CRRA on gross value, gamma 8",8,0,pooled CE gain ens+R prob,13,0.8800121947,,,,,,
+gross_g8,"CRRA on gross value, gamma 8",8,0,pooled CE gain ens+R point,13,-2.521557583,,,,,,
+gross_g8,"CRRA on gross value, gamma 8",8,0,pooled CE gain m5 prob,13,1.181499262,,,,,,
+gross_g8,"CRRA on gross value, gamma 8",8,0,pooled CE gain sarima prob,13,-0.3496504642,,,,,,
+gross_g8,"CRRA on gross value, gamma 8",8,0,mean sale month ens+R prob - point,13,-1.983333333,,,,,,
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,H1: ens+R prob - point (CE),13,0.1569069521,0.4765625,-3.172590372,3.457592248,3,4,7
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,H1 literal: ens+R prob - point (mean realised V),13,-0.8021930512,0.65625,-4.02943347,2.382357944,3,4,7
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,"H6: M5 - SARIMA (prob, CE)",13,7.295486478,0.000244140625,1.334039462,14.01703116,12,0,12
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,pooled CE gain ens+R prob,13,1.631427069,,,,,,
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,pooled CE gain ens+R point,13,0.2376652537,,,,,,
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,pooled CE gain m5 prob,13,4.70682216,,,,,,
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,pooled CE gain sarima prob,13,0.6954913647,,,,,,
+net_c50_g2,"CRRA on net value (costs half of the May value), gamma 2",2,0.5,mean sale month ens+R prob - point,13,-1.45,,,,,,
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,H1: ens+R prob - point (CE),13,0.6553802083,0.392578125,-3.393039317,4.624878573,4,5,9
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,H1 literal: ens+R prob - point (mean realised V),13,-1.592155439,0.693359375,-6.11116641,2.463451496,4,5,9
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,"H6: M5 - SARIMA (prob, CE)",13,4.071572922,0.037109375,0.1577980632,9.225427069,8,2,10
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,pooled CE gain ens+R prob,13,0.8988391675,,,,,,
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,pooled CE gain ens+R point,13,-3.231399725,,,,,,
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,pooled CE gain m5 prob,13,0.9168009289,,,,,,
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,pooled CE gain sarima prob,13,-0.4544061543,,,,,,
+net_c50_g4,"CRRA on net value (costs half of the May value), gamma 4",4,0.5,mean sale month ens+R prob - point,13,-1.983333333,,,,,,

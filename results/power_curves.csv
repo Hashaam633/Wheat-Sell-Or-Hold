@@ -1,0 +1,169 @@
+contrast,delta_pp,power
+H1: ens+R prob - point,0,0.01125
+H1: ens+R prob - point,0.5,0.10125
+H1: ens+R prob - point,1,0.1795
+H1: ens+R prob - point,1.5,0.38625
+H1: ens+R prob - point,2,0.5745
+H1: ens+R prob - point,2.5,0.75
+H1: ens+R prob - point,3,0.92725
+H1: ens+R prob - point,3.5,0.965
+H1: ens+R prob - point,4,0.993
+H1: ens+R prob - point,4.5,0.999
+H1: ens+R prob - point,5,1
+H1: ens+R prob - point,5.5,1
+H1: ens+R prob - point,6,1
+H1: ens+R prob - point,6.5,1
+H1: ens+R prob - point,7,1
+H1: ens+R prob - point,7.5,1
+H1: ens+R prob - point,8,1
+H1: ens+R prob - point,8.5,1
+H1: ens+R prob - point,9,1
+H1: ens+R prob - point,9.5,1
+H1: ens+R prob - point,10,1
+H1: ens+R prob - point,10.5,1
+H1: ens+R prob - point,11,1
+H1: ens+R prob - point,11.5,1
+H1: ens+R prob - point,12,1
+H1: ens+R prob - point (effect only in differing seasons),0,0.0125
+H1: ens+R prob - point (effect only in differing seasons),0.5,0.025
+H1: ens+R prob - point (effect only in differing seasons),1,0.037
+H1: ens+R prob - point (effect only in differing seasons),1.5,0.101
+H1: ens+R prob - point (effect only in differing seasons),2,0.161
+H1: ens+R prob - point (effect only in differing seasons),2.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),3,0.605
+H1: ens+R prob - point (effect only in differing seasons),3.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),4,0.605
+H1: ens+R prob - point (effect only in differing seasons),4.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),5,0.605
+H1: ens+R prob - point (effect only in differing seasons),5.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),6,0.605
+H1: ens+R prob - point (effect only in differing seasons),6.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),7,0.605
+H1: ens+R prob - point (effect only in differing seasons),7.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),8,0.605
+H1: ens+R prob - point (effect only in differing seasons),8.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),9,0.605
+H1: ens+R prob - point (effect only in differing seasons),9.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),10,0.605
+H1: ens+R prob - point (effect only in differing seasons),10.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),11,0.605
+H1: ens+R prob - point (effect only in differing seasons),11.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),12,0.605
+H1: ens+R prob - point (effect only in differing seasons),12.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),13,0.605
+H1: ens+R prob - point (effect only in differing seasons),13.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),14,0.605
+H1: ens+R prob - point (effect only in differing seasons),14.5,0.605
+H1: ens+R prob - point (effect only in differing seasons),15,0.605
+H6: M5 - SARIMA (prob),0,0.02525
+H6: M5 - SARIMA (prob),0.5,0.03375
+H6: M5 - SARIMA (prob),1,0.03925
+H6: M5 - SARIMA (prob),1.5,0.04325
+H6: M5 - SARIMA (prob),2,0.04425
+H6: M5 - SARIMA (prob),2.5,0.04425
+H6: M5 - SARIMA (prob),3,0.0445
+H6: M5 - SARIMA (prob),3.5,0.0465
+H6: M5 - SARIMA (prob),4,0.05775
+H6: M5 - SARIMA (prob),4.5,0.1135
+H6: M5 - SARIMA (prob),5,0.23325
+H6: M5 - SARIMA (prob),5.5,0.37575
+H6: M5 - SARIMA (prob),6,0.58075
+H6: M5 - SARIMA (prob),6.5,0.76175
+H6: M5 - SARIMA (prob),7,0.88675
+H6: M5 - SARIMA (prob),7.5,0.9535
+H6: M5 - SARIMA (prob),8,0.98675
+H6: M5 - SARIMA (prob),8.5,0.997
+H6: M5 - SARIMA (prob),9,0.99925
+H6: M5 - SARIMA (prob),9.5,1
+H6: M5 - SARIMA (prob),10,1
+H6: M5 - SARIMA (prob),10.5,1
+H6: M5 - SARIMA (prob),11,1
+H6: M5 - SARIMA (prob),11.5,1
+H6: M5 - SARIMA (prob),12,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),0,0.016
+H6: M5 - SARIMA (prob) (effect only in differing seasons),0.5,0.0235
+H6: M5 - SARIMA (prob) (effect only in differing seasons),1,0.0315
+H6: M5 - SARIMA (prob) (effect only in differing seasons),1.5,0.033
+H6: M5 - SARIMA (prob) (effect only in differing seasons),2,0.0375
+H6: M5 - SARIMA (prob) (effect only in differing seasons),2.5,0.039
+H6: M5 - SARIMA (prob) (effect only in differing seasons),3,0.039
+H6: M5 - SARIMA (prob) (effect only in differing seasons),3.5,0.04
+H6: M5 - SARIMA (prob) (effect only in differing seasons),4,0.0575
+H6: M5 - SARIMA (prob) (effect only in differing seasons),4.5,0.149
+H6: M5 - SARIMA (prob) (effect only in differing seasons),5,0.2505
+H6: M5 - SARIMA (prob) (effect only in differing seasons),5.5,0.392
+H6: M5 - SARIMA (prob) (effect only in differing seasons),6,0.559
+H6: M5 - SARIMA (prob) (effect only in differing seasons),6.5,0.732
+H6: M5 - SARIMA (prob) (effect only in differing seasons),7,0.8575
+H6: M5 - SARIMA (prob) (effect only in differing seasons),7.5,0.943
+H6: M5 - SARIMA (prob) (effect only in differing seasons),8,0.9735
+H6: M5 - SARIMA (prob) (effect only in differing seasons),8.5,0.992
+H6: M5 - SARIMA (prob) (effect only in differing seasons),9,0.998
+H6: M5 - SARIMA (prob) (effect only in differing seasons),9.5,0.9985
+H6: M5 - SARIMA (prob) (effect only in differing seasons),10,0.9995
+H6: M5 - SARIMA (prob) (effect only in differing seasons),10.5,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),11,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),11.5,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),12,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),12.5,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),13,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),13.5,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),14,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),14.5,1
+H6: M5 - SARIMA (prob) (effect only in differing seasons),15,1
+M5+R prob - M0+R prob,0,0.00675
+M5+R prob - M0+R prob,0.5,0.01425
+M5+R prob - M0+R prob,1,0.0225
+M5+R prob - M0+R prob,1.5,0.0295
+M5+R prob - M0+R prob,2,0.039
+M5+R prob - M0+R prob,2.5,0.063
+M5+R prob - M0+R prob,3,0.1425
+M5+R prob - M0+R prob,3.5,0.2955
+M5+R prob - M0+R prob,4,0.4865
+M5+R prob - M0+R prob,4.5,0.6735
+M5+R prob - M0+R prob,5,0.839
+M5+R prob - M0+R prob,5.5,0.93125
+M5+R prob - M0+R prob,6,0.97425
+M5+R prob - M0+R prob,6.5,0.99475
+M5+R prob - M0+R prob,7,0.9995
+M5+R prob - M0+R prob,7.5,0.99975
+M5+R prob - M0+R prob,8,1
+M5+R prob - M0+R prob,8.5,1
+M5+R prob - M0+R prob,9,1
+M5+R prob - M0+R prob,9.5,1
+M5+R prob - M0+R prob,10,1
+M5+R prob - M0+R prob,10.5,1
+M5+R prob - M0+R prob,11,1
+M5+R prob - M0+R prob,11.5,1
+M5+R prob - M0+R prob,12,1
+M5+R prob - M0+R prob (effect only in differing seasons),0,0.005
+M5+R prob - M0+R prob (effect only in differing seasons),0.5,0.011
+M5+R prob - M0+R prob (effect only in differing seasons),1,0.0185
+M5+R prob - M0+R prob (effect only in differing seasons),1.5,0.025
+M5+R prob - M0+R prob (effect only in differing seasons),2,0.0325
+M5+R prob - M0+R prob (effect only in differing seasons),2.5,0.0595
+M5+R prob - M0+R prob (effect only in differing seasons),3,0.147
+M5+R prob - M0+R prob (effect only in differing seasons),3.5,0.325
+M5+R prob - M0+R prob (effect only in differing seasons),4,0.4925
+M5+R prob - M0+R prob (effect only in differing seasons),4.5,0.6725
+M5+R prob - M0+R prob (effect only in differing seasons),5,0.822
+M5+R prob - M0+R prob (effect only in differing seasons),5.5,0.926
+M5+R prob - M0+R prob (effect only in differing seasons),6,0.973
+M5+R prob - M0+R prob (effect only in differing seasons),6.5,0.9905
+M5+R prob - M0+R prob (effect only in differing seasons),7,0.998
+M5+R prob - M0+R prob (effect only in differing seasons),7.5,0.9995
+M5+R prob - M0+R prob (effect only in differing seasons),8,0.9995
+M5+R prob - M0+R prob (effect only in differing seasons),8.5,0.9995
+M5+R prob - M0+R prob (effect only in differing seasons),9,0.9995
+M5+R prob - M0+R prob (effect only in differing seasons),9.5,1
+M5+R prob - M0+R prob (effect only in differing seasons),10,1
+M5+R prob - M0+R prob (effect only in differing seasons),10.5,1
+M5+R prob - M0+R prob (effect only in differing seasons),11,1
+M5+R prob - M0+R prob (effect only in differing seasons),11.5,1
+M5+R prob - M0+R prob (effect only in differing seasons),12,1
+M5+R prob - M0+R prob (effect only in differing seasons),12.5,1
+M5+R prob - M0+R prob (effect only in differing seasons),13,1
+M5+R prob - M0+R prob (effect only in differing seasons),13.5,1
+M5+R prob - M0+R prob (effect only in differing seasons),14,1
+M5+R prob - M0+R prob (effect only in differing seasons),14.5,1
+M5+R prob - M0+R prob (effect only in differing seasons),15,1

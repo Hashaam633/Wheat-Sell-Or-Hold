@@ -1,0 +1,14 @@
+test,seasons,mean_diff_pp,ci90_lo,ci90_hi,p_one_sided,p_two_sided,wins,losses,diff_without_2024_pp
+"H1 primary: ens+R prob vs point, gamma 2, rule B",13,0.0507,-1.6150,1.8935,0.5000,1.0000,2,3,-0.8219
+"H2/H3: ens+R prob vs point, gamma 0, rule A",13,2.5015,-2.2070,9.7600,0.4062,0.8125,3,2,3.8611
+"H3: ens+R prob vs point, gamma 0, rule B",13,2.4545,-2.4214,10.2306,0.5000,1.0000,1,5,3.4733
+"H2/H3: ens+R prob vs point, gamma 1, rule A",13,0.2345,-1.2457,1.8700,0.4062,0.8125,3,3,0.3942
+"H3: ens+R prob vs point, gamma 1, rule B",13,-0.4082,-1.5446,0.8303,0.6875,0.6562,2,4,-0.0616
+"H2/H3: ens+R prob vs point, gamma 2, rule A",13,-0.7106,-2.4243,1.0174,0.7188,0.5938,3,3,-0.9267
+"H3: ens+R prob vs point, gamma 2, rule B",13,0.0507,-1.6150,1.8935,0.5000,1.0000,2,3,-0.8219
+"H2/H3: ens+R prob vs point, gamma 4, rule A",13,-0.4714,-2.7576,1.9645,0.6328,0.7500,3,4,-0.7964
+"H3: ens+R prob vs point, gamma 4, rule B",13,0.1551,-2.4803,2.8819,0.4766,0.9531,3,4,-0.9766
+"H4: ens prob vs point (no recalibration), gamma 2, rule B",13,-0.9429,-1.8363,-0.2030,1.0000,0.2500,0,3,-1.0215
+"H4: ens+R prob vs ens prob, gamma 2, rule B",13,0.9936,-0.1741,2.4739,0.2188,0.4375,3,2,0.1996
+"H6: M5 vs SARIMA (prob), gamma 2, rule B",13,5.8826,0.5816,11.7094,0.0608,0.1216,10,2,6.8360
+"H6b: M5+R vs SARIMA+R (prob), gamma 2, rule B",13,3.6056,0.0275,7.9353,0.1143,0.2285,10,3,4.3197
